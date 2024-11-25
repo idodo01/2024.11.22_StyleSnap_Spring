@@ -12,3 +12,12 @@ StyleSnap 프로젝트, 스프링에 옮겨서 DB 연결하기
 1. (Controller) MainController, MakeStyleController 생성
 2. MakeStyleController에 rest 적용하기 (get, post) -
  +++ input했는 img 하나, post해서 id, url console 출력하는 것까지 했음
+
+11/26
+1. 사용자가 업로드한 이미지를 db에 넣고, 로컬 폴더에 넣고
+2. 불러올 때는 로컬 폴더에 있는 사진을 db를 통해서 불러오려고 했는데 그게 잘 안됨
+
+   일단 저 순서가 틀린 거 같기도 하고,
+   1. 사진 업로드할 때 정보가 db에 들어가도록
+   2. 사진 업로드할 때 폴더에 다운로드 되도록
+   이런식으로 분리해서 한 번 해봐야겠음
