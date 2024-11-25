@@ -1,6 +1,6 @@
 package com.ido.stylesnap.mapper;
 
-import com.ido.stylesnap.dto.StyleDTO;
+import com.ido.stylesnap.dto.style.StyleDTO;
 import org.apache.ibatis.annotations.Mapper;
 
 @Mapper

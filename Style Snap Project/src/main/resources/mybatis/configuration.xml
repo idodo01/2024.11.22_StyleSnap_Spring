@@ -8,8 +8,8 @@
     </settings>
 
     <typeAliases>
-        <typeAlias type="com.ido.stylesnap.dto.StyleDTO" alias="StyleDTO" />
-        <typeAlias type="com.ido.stylesnap.dto.TopDTO" alias="TopDTO" />
-        <typeAlias type="com.ido.stylesnap.dto.BottomDTO" alias="BottomDTO" />
+        <typeAlias type="com.ido.stylesnap.dto.style.StyleDTO" alias="StyleDTO" />
+        <typeAlias type="com.ido.stylesnap.dto.style.TopDTO" alias="TopDTO" />
+        <typeAlias type="com.ido.stylesnap.dto.style.BottomDTO" alias="BottomDTO" />
     </typeAliases>
 </configuration>
