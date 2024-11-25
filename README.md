@@ -11,4 +11,4 @@ StyleSnap 프로젝트, 스프링에 옮겨서 DB 연결하기
 11/25  
 1. (Controller) MainController, MakeStyleController 생성
 2. MakeStyleController에 rest 적용하기 (get, post) -
-  1) input했는 img 하나, post해서 id, url console 출력하는 것까지 했음
+ +++ input했는 img 하나, post해서 id, url console 출력하는 것까지 했음
